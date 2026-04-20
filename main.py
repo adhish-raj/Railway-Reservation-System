@@ -1,6 +1,6 @@
 # Railway Reservation System
 print("Welcome to Railway Reservation System")
-
+print("System Ready to Use")
 total_seats = 50
 bookings = {}
 seat_counter = 1
